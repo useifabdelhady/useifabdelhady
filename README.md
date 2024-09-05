@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yousef Abdelhady</h1>
+### Hello friends 👋, I am Yousef!
+
 ---
+
 <h3 align="center">Passionate About Technology & Science | Backend Developer | .NET Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=useifabdelhady&label=Profile%20views&color=0e75b6&style=flat" alt="useifabdelhady" /> </p>
