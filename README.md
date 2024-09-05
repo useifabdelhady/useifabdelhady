@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Abdelhady</h1>
+---
 <h3 align="center">Passionate About Technology & Science | Backend Developer | .NET Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=useifabdelhady&label=Profile%20views&color=0e75b6&style=flat" alt="useifabdelhady" /> </p>
@@ -17,7 +18,7 @@
 ---
 💻 Main Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" alt="swift logo" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="angular logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="40" height="40" /> <img 
 
 ---
 💹 Github Stats
